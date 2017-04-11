@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RefreshListView</string>
+    <string name="last_refresh_time">最后刷新时间：%1$s</string>
+    <string name="refresh_state_down_pull_state">下拉刷新</string>
+    <string name="refresh_state_release_refresh">松开刷新</string>
+    <string name="refresh_state_refreshing">刷新中</string>
+    <string name="footer_load_more">加载更多</string>
+</resources>
